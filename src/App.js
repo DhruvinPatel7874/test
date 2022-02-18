@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Dhruvin ABC
+          Learn React Dhruvin ABC XYZ
         </a>
       </header>
     </div>
